@@ -6,3 +6,4 @@ build:
     - "transformers"
     - "accelerate"
     - "auto-gptq"
+    - "protobuf"
